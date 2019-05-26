@@ -1,0 +1,23 @@
+{
+  "name": "babylon101_1",
+  "version": "1.0.0",
+  "description": "Babylon基础教程1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjphysics/Babylon101_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjphysics/Babylon101_1/issues"
+  },
+  "homepage": "https://github.com/fjphysics/Babylon101_1#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {}
+}
